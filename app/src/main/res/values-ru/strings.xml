@@ -1,14 +1,14 @@
 <resources>
     <string name="app_name">Homework 3.4.2</string>
     <string name="ok">Выбрать</string>
-    <string name="indents_select">Политика отступов</string>
+    <string name="indents_select">Отступы</string>
     <string name="language_select">Выбор языка</string>
 
 
     <string-array name="themes">
-        <item>крупная</item>
-        <item>средняя</item>
-        <item>мелкая</item>
+        <item>крупные</item>
+        <item>средние</item>
+        <item>мелкие</item>
     </string-array>
 
     <string name="info">На моём запланированном пути Тегусигальпа была самой рискованной точкой в том смысле, что все путеводители в один голос утверждают - самая опасная столица! Там всех грабят! Да и отзывы людей в Сальвадоре о Гондурасе были не самые лестные.</string>
